@@ -1,2 +1,2 @@
-# C-
+# C++
 Sedikit Project kecil-kecilan
