@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1571069902 source:f:\kuliah\gamepro\acakkata\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<vector>
+
+1571071238 source:f:\kuliah\gamepro\tugas\03 acakkata\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<vector>
+

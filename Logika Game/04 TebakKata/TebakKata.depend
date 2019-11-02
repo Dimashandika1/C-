@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1571071854 source:f:\kuliah\gamepro\tugas\04 tebakkata\main.cpp
+	<iostream>
+	<vector>
+	<iterator>
+	<fstream>
+

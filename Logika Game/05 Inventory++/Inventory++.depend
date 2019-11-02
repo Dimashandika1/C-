@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1570505860 source:g:\kuliah\gamepro\inventory++\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
+1570632842 source:f:\kuliah\gamepro\inventory++\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	<ctime>
+
+1570633464 source:g:\kuliah\gamepro\tugas\05 inventory++\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	<ctime>
+

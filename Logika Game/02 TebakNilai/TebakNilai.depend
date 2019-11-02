@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1569300814 source:d:\tebaknilai\main.cpp
+	<iostream>
+	<stdlib.h>
+
+1569301614 source:f:\kuliah\gamepro\tebaknilai\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1569898954 source:g:\kuliah\gamepro\tebaknilai\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1569898954 source:f:\kuliah\gamepro\logika game\02 tebaknilai\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
