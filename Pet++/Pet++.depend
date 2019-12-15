@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1575344091 source:d:\pet++\main.cpp
+	<iostream>
+	<string>
+
+1575950846 source:g:\kuliah\gamepro\pet++\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
